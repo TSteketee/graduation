@@ -1,0 +1,27 @@
+To do
+-------------------------------------
+
+[x] Accept the meetings in teams
+
+[x] Visual comfort icon component
+[x] Social comfort icon component
+[] Fix layout mainviewinfo
+
+[] Deploy the database
+[] Build the apk
+[] Make sure the errors in the request are handled
+
+Friday
+[] Fix the report
+[] Make a new poc based on the input from Erik
+
+    - [] Implement the plan for the on personal comfort model (Based on occupancy in a room)
+    - [] Make the list part based on preferences
+    - [] Make the EMS explanation component (Visual)
+
+
+----------------------------------------------------
+[] Personal data based on gender sex etc. (see paper)
+[] New data structure, automate everyday comfort input
+[] Feedback for the user about what has happened with his data
+[] likert scale

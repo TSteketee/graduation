@@ -27,6 +27,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    // "plugins": [
+    //   "expo-navigation-bar"
+    // ],
+    "androidNavigationBar": {
+      "visible": "immersive"
+    },
+    "backgroundColor": "#000"
   }
 }
